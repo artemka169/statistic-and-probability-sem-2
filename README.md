@@ -1,6 +1,6 @@
-# statistic-and-probability-sem-2
+
 <p align="center">
-  <h1 align="center">Statistics and probability exam task</h1>
+  <h1 align="center">Statistics and probability project</h1>
 
   <h2 align="center">
  Artem Moskovets, SMD-2
