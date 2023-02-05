@@ -9,12 +9,12 @@
     ·
     <a href="https://github.com/artemka169/stats-probability-exam/pulls">Request Feature</a>
   </p>
-</p>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This project aims to discover correlations and patterns from the survey, and get evaluation for statistics and probability course :) 
+This research aims to study the impact of the russian full-scale invasion on the use of the russian language by citizens of Ukraine
 
 
 <!-- PREREQUISITES -->
