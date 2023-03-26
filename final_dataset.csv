@@ -1,0 +1,273 @@
+,time,sex,age,is_citizen,region,where_live,lang_before,lang_after,movies_before,movies_after,content_before,content_after
+0,2023/01/30 6:23:56 дп GMT+1,Male,18,yes,Сentral-north,temp_abroad,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English', 'other']",2,2
+0,2023/01/30 6:23:56 дп GMT+1,Male,18,yes,West,temp_abroad,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English', 'other']",2,2
+1,2023/01/30 10:38:28 дп GMT+1,Male,18,yes,Сentral-north,temp_abroad,2,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,2
+2,2023/01/30 12:49:50 пп GMT+1,Male,18,yes,East,temp_abroad,4,4,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,2
+3,2023/01/30 12:53:18 пп GMT+1,Female,19,yes,Сentral-north,temp_abroad,3,2,['English'],['English'],3,1
+4,2023/01/30 12:55:05 пп GMT+1,Male,18,yes,East,perm_abroad,4,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",2,1
+5,2023/01/30 12:55:27 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",4,3
+6,2023/01/30 12:58:41 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,4,3,['Ukrainian'],['Ukrainian'],3,1
+7,2023/01/30 12:59:06 пп GMT+1,Female,18,yes,South,temp_abroad,5,4,['russian'],['russian'],5,4
+8,2023/01/30 12:59:24 пп GMT+1,Female,18,yes,Сentral-north,temp_abroad,4,2,['Ukrainian'],['English'],3,2
+9,2023/01/30 1:05:17 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+10,2023/01/30 1:05:21 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,2,1,"['Ukrainian', 'russian']",['Ukrainian'],3,2
+11,2023/01/30 1:05:47 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,3,1,['Ukrainian'],['Ukrainian'],4,1
+12,2023/01/30 1:06:04 пп GMT+1,Male,21,yes,Сentral-north,in_Ukraine,2,2,['russian'],['Ukrainian'],3,1
+13,2023/01/30 1:06:06 пп GMT+1,Female,17,yes,Сentral-north,in_Ukraine,3,1,['English'],"['Ukrainian', 'English']",2,1
+14,2023/01/30 1:08:46 пп GMT+1,Female,20,yes,Сentral-north,in_Ukraine,5,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+15,2023/01/30 1:09:30 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,4,3,['russian'],"['English', 'russian']",5,5
+16,2023/01/30 1:10:54 пп GMT+1,Female,18,yes,East,temp_abroad,4,3,"['Ukrainian', 'russian']","['Ukrainian', 'russian', 'other']",4,3
+17,2023/01/30 1:11:05 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,4,4,['Ukrainian'],['Ukrainian'],3,2
+18,2023/01/30 1:11:39 пп GMT+1,Female,22,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'other']",4,1
+19,2023/01/30 1:12:36 пп GMT+1,Male,18,yes,Сentral-north,in_Ukraine,3,3,['Ukrainian'],['Ukrainian'],3,2
+20,2023/01/30 1:14:52 пп GMT+1,Female,20,yes,Сentral-north,in_Ukraine,4,2,"['Ukrainian', 'russian']",['Ukrainian'],3,1
+21,2023/01/30 1:18:27 пп GMT+1,Female,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",5,2
+22,2023/01/30 1:19:29 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'russian']",3,1
+23,2023/01/30 1:24:18 пп GMT+1,Female,24,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'russian']","['Ukrainian', 'russian']",3,2
+24,2023/01/30 1:26:50 пп GMT+1,Female,17,yes,Сentral-north,in_Ukraine,4,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+24,2023/01/30 1:26:50 пп GMT+1,Female,17,yes,South,in_Ukraine,4,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+25,2023/01/30 1:28:21 пп GMT+1,Female,16,yes,East,in_Ukraine,5,2,['russian'],['Ukrainian'],4,1
+26,2023/01/30 1:29:00 пп GMT+1,Female,19,yes,Сentral-north,temp_abroad,2,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,2
+27,2023/01/30 1:30:35 пп GMT+1,Male,18,yes,West,temp_abroad,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+28,2023/01/30 1:32:44 пп GMT+1,Female,27,yes,Сentral-north,in_Ukraine,3,2,['Ukrainian'],"['Ukrainian', 'English']",3,1
+29,2023/01/30 1:34:30 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,5,4,"['English', 'russian']","['English', 'russian']",4,3
+30,2023/01/30 1:37:21 пп GMT+1,Male,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+31,2023/01/30 1:38:41 пп GMT+1,Female,15,yes,Сentral-north,perm_abroad,5,4,['English'],['English'],3,2
+32,2023/01/30 1:39:18 пп GMT+1,Female,20,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",4,1
+33,2023/01/30 1:39:59 пп GMT+1,Female,18,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",4,1
+34,2023/01/30 1:43:19 пп GMT+1,Male,18,yes,Сentral-north,in_Ukraine,3,5,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+35,2023/01/30 1:44:29 пп GMT+1,Male,18,yes,Сentral-north,perm_abroad,5,5,['russian'],['russian'],5,4
+36,2023/01/30 1:45:55 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,4,4,['other'],['other'],3,3
+37,2023/01/30 1:54:26 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,2,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,2
+38,2023/01/30 1:56:19 пп GMT+1,Female,18,yes,East,perm_abroad,4,3,['russian'],['other'],3,2
+39,2023/01/30 2:00:24 пп GMT+1,Female,21,yes,Сentral-north,in_Ukraine,5,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",4,3
+40,2023/01/30 2:05:58 пп GMT+1,Female,17,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,2
+41,2023/01/30 2:17:23 пп GMT+1,Female,16,yes,East,temp_abroad,3,2,"['Ukrainian', 'russian']","['Ukrainian', 'English', 'other']",3,1
+42,2023/01/30 2:20:18 пп GMT+1,Female,17,yes,Сentral-north,temp_abroad,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",4,2
+43,2023/01/30 2:20:43 пп GMT+1,Female,18,yes,Сentral-north,temp_abroad,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,1
+43,2023/01/30 2:20:43 пп GMT+1,Female,18,yes,West,temp_abroad,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,1
+44,2023/01/30 2:23:38 пп GMT+1,Male,17,yes,Сentral-north,perm_abroad,4,2,"['Ukrainian', 'English', 'russian']",['English'],4,2
+45,2023/01/30 2:27:22 пп GMT+1,Male,17,yes,Сentral-north,in_Ukraine,4,3,['Ukrainian'],['Ukrainian'],3,2
+45,2023/01/30 2:27:22 пп GMT+1,Male,17,yes,West,in_Ukraine,4,3,['Ukrainian'],['Ukrainian'],3,2
+46,2023/01/30 2:27:54 пп GMT+1,Female,16,yes,Сentral-north,in_Ukraine,4,3,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,2
+47,2023/01/30 2:27:56 пп GMT+1,Male,18,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+48,2023/01/30 2:31:48 пп GMT+1,Male,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",3,3
+49,2023/01/30 2:35:50 пп GMT+1,Female,15,yes,Сentral-north,temp_abroad,3,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,1
+50,2023/01/30 2:36:32 пп GMT+1,Female,16,yes,Сentral-north,in_Ukraine,4,2,['russian'],"['Ukrainian', 'English']",4,1
+51,2023/01/30 2:44:36 пп GMT+1,Female,24,yes,Сentral-north,temp_abroad,3,1,['Ukrainian'],['Ukrainian'],4,1
+52,2023/01/30 2:48:32 пп GMT+1,Female,16,yes,Сentral-north,in_Ukraine,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",2,2
+53,2023/01/30 2:53:32 пп GMT+1,Male,18,yes,Сentral-north,in_Ukraine,4,4,"['Ukrainian', 'English']",['English'],2,1
+54,2023/01/30 3:00:52 пп GMT+1,Female,18,yes,Сentral-north,temp_abroad,3,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+55,2023/01/30 3:18:23 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,3,2,['russian'],"['Ukrainian', 'russian']",2,1
+55,2023/01/30 3:18:23 пп GMT+1,Female,18,yes,East,in_Ukraine,3,2,['russian'],"['Ukrainian', 'russian']",2,1
+56,2023/01/30 3:35:59 пп GMT+1,Female,29,yes,Сentral-north,temp_abroad,2,1,"['English', 'other']","['Ukrainian', 'English', 'other']",2,1
+57,2023/01/30 4:46:30 пп GMT+1,Male,18,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",1,1
+58,2023/01/30 4:56:24 пп GMT+1,Female,19,yes,East,temp_abroad,5,3,"['Ukrainian', 'russian']",['Ukrainian'],4,2
+59,2023/01/30 5:07:42 пп GMT+1,Female,17,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+60,2023/01/30 5:12:36 пп GMT+1,Female,16,yes,Сentral-north,in_Ukraine,3,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+61,2023/01/30 5:30:06 пп GMT+1,Female,20,yes,East,temp_abroad,5,2,"['English', 'russian']","['Ukrainian', 'English', 'russian']",3,2
+62,2023/01/30 5:32:12 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,4,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+62,2023/01/30 5:32:12 пп GMT+1,Female,18,yes,East,in_Ukraine,4,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+63,2023/01/30 6:07:43 пп GMT+1,Female,47,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'russian', 'other']","['Ukrainian', 'other']",3,1
+64,2023/01/30 6:11:36 пп GMT+1,Female,17,yes,Сentral-north,in_Ukraine,5,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+65,2023/01/30 6:35:16 пп GMT+1,Male,19,yes,Сentral-north,in_Ukraine,4,3,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+66,2023/01/30 7:29:32 пп GMT+1,Male,17,yes,Сentral-north,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English', 'other']",3,2
+67,2023/01/30 7:37:39 пп GMT+1,Male,18,yes,South,temp_abroad,4,3,"['English', 'russian']","['Ukrainian', 'English']",2,1
+68,2023/01/30 7:54:50 пп GMT+1,NB,19,yes,Сentral-north,temp_abroad,5,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,2
+69,2023/01/30 8:17:07 пп GMT+1,Male,20,yes,Сentral-north,temp_abroad,3,3,"['English', 'russian']","['Ukrainian', 'English']",3,2
+70,2023/01/30 8:24:45 пп GMT+1,Male,20,yes,Сentral-north,in_Ukraine,4,2,"['English', 'russian']","['Ukrainian', 'English']",5,2
+71,2023/01/30 8:52:48 пп GMT+1,Female,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+72,2023/01/30 9:17:55 пп GMT+1,Male,19,yes,Сentral-north,in_Ukraine,5,1,['russian'],"['Ukrainian', 'russian']",4,1
+73,2023/01/30 11:42:28 пп GMT+1,Male,18,yes,East,temp_abroad,2,2,['Ukrainian'],['Ukrainian'],3,2
+74,2023/01/31 12:11:24 дп GMT+1,Male,18,yes,Сentral-north,temp_abroad,3,2,['English'],"['Ukrainian', 'English']",2,1
+75,2023/01/31 12:18:44 дп GMT+1,Male,20,yes,South,in_Ukraine,2,2,"['English', 'russian']","['Ukrainian', 'English']",2,2
+76,2023/01/31 12:25:07 дп GMT+1,Female,19,yes,Сentral-north,temp_abroad,5,4,"['English', 'russian', 'other']",['other'],2,2
+77,2023/01/31 6:34:07 дп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,2
+78,2023/01/31 9:17:26 дп GMT+1,Male,41,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,2
+79,2023/01/31 9:43:35 дп GMT+1,Male,24,yes,East,in_Ukraine,5,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",4,1
+80,2023/01/31 10:45:55 дп GMT+1,Female,30,yes,East,temp_abroad,5,5,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",5,4
+81,2023/01/31 10:49:38 дп GMT+1,Female,20,yes,East,perm_abroad,5,4,['russian'],"['Ukrainian', 'English', 'russian']",3,3
+82,2023/01/31 10:53:41 дп GMT+1,Female,43,yes,East,temp_abroad,3,1,"['Ukrainian', 'English']","['Ukrainian', 'English', 'other']",3,1
+83,2023/01/31 10:54:22 дп GMT+1,Female,38,yes,East,temp_abroad,5,3,['russian'],['russian'],3,1
+84,2023/01/31 10:56:46 дп GMT+1,Female,30,yes,Сentral-north,temp_abroad,3,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'other']",3,2
+85,2023/01/31 11:09:17 дп GMT+1,Male,45,yes,Сentral-north,temp_abroad,5,4,['russian'],['Ukrainian'],4,2
+86,2023/01/31 11:09:27 дп GMT+1,Female,52,yes,East,temp_abroad,4,3,['russian'],"['Ukrainian', 'russian']",3,1
+88,2023/01/31 11:40:11 дп GMT+1,Male,24,yes,West,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",4,1
+89,2023/01/31 11:52:34 дп GMT+1,Female,39,yes,Сentral-north,temp_abroad,3,2,['Ukrainian'],['Ukrainian'],3,1
+90,2023/01/31 12:01:11 пп GMT+1,Male,18,yes,Сentral-north,perm_abroad,4,4,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",3,2
+91,2023/01/31 12:01:38 пп GMT+1,Female,42,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'other']","['Ukrainian', 'other']",2,2
+91,2023/01/31 12:01:38 пп GMT+1,Female,42,yes,South,temp_abroad,4,2,"['Ukrainian', 'other']","['Ukrainian', 'other']",2,2
+92,2023/01/31 12:27:59 пп GMT+1,Male,21,yes,Сentral-north,in_Ukraine,5,2,"['English', 'russian']","['Ukrainian', 'English']",3,2
+92,2023/01/31 12:27:59 пп GMT+1,Male,21,yes,East,in_Ukraine,5,2,"['English', 'russian']","['Ukrainian', 'English']",3,2
+93,2023/01/31 12:52:18 пп GMT+1,Female,30,yes,East,temp_abroad,4,3,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+94,2023/01/31 1:55:46 пп GMT+1,Female,44,yes,Сentral-north,temp_abroad,3,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",2,1
+94,2023/01/31 1:55:46 пп GMT+1,Female,44,yes,East,temp_abroad,3,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",2,1
+95,2023/01/31 1:57:24 пп GMT+1,Female,17,yes,Сentral-north,temp_abroad,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+96,2023/01/31 3:19:47 пп GMT+1,Female,40,yes,Сentral-north,perm_abroad,5,3,"['English', 'russian']","['Ukrainian', 'English', 'russian']",3,2
+97,2023/01/31 3:26:08 пп GMT+1,Female,50,yes,East,temp_abroad,5,5,"['Ukrainian', 'russian']","['Ukrainian', 'russian']",3,3
+98,2023/01/31 3:33:39 пп GMT+1,Female,53,yes,South,perm_abroad,4,2,['other'],['Ukrainian'],3,2
+99,2023/01/31 4:05:21 пп GMT+1,Female,37,yes,Сentral-north,temp_abroad,2,1,"['Ukrainian', 'russian']",['Ukrainian'],3,2
+100,2023/01/31 4:49:10 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,4,1,['Ukrainian'],['Ukrainian'],4,1
+101,2023/01/31 4:58:00 пп GMT+1,Male,64,yes,East,temp_abroad,2,4,['Ukrainian'],['Ukrainian'],2,1
+102,2023/01/31 5:14:42 пп GMT+1,Male,18,yes,Сentral-north,temp_abroad,3,3,"['Ukrainian', 'English']",['English'],2,2
+103,2023/01/31 5:16:06 пп GMT+1,Female,21,yes,East,in_Ukraine,5,3,['russian'],"['Ukrainian', 'russian']",4,1
+104,2023/01/31 5:33:00 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,2,1,['English'],['English'],3,1
+105,2023/01/31 5:35:36 пп GMT+1,Male,19,yes,Сentral-north,perm_abroad,4,4,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,2
+106,2023/01/31 5:50:20 пп GMT+1,Female,44,yes,South,temp_abroad,4,3,['Ukrainian'],['Ukrainian'],2,2
+107,2023/01/31 6:11:33 пп GMT+1,Female,28,yes,Сentral-north,temp_abroad,2,1,"['Ukrainian', 'russian']",['Ukrainian'],2,1
+108,2023/01/31 9:36:45 пп GMT+1,Female,25,yes,Сentral-north,temp_abroad,2,1,['Ukrainian'],"['Ukrainian', 'English']",3,2
+109,2023/01/31 10:49:44 пп GMT+1,Female,54,yes,Сentral-north,temp_abroad,3,2,['russian'],['Ukrainian'],3,2
+110,2023/01/31 11:13:43 пп GMT+1,Female,52,yes,East,temp_abroad,5,5,['russian'],['Ukrainian'],2,1
+111,2023/02/01 9:29:54 дп GMT+1,Female,42,yes,Сentral-north,temp_abroad,3,3,['russian'],['other'],2,2
+112,2023/02/01 9:52:25 дп GMT+1,Male,43,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",2,1
+113,2023/02/01 9:57:47 дп GMT+1,Female,20,yes,Сentral-north,in_Ukraine,3,3,['russian'],"['Ukrainian', 'russian']",3,2
+114,2023/02/01 9:58:43 дп GMT+1,Male,35,yes,South,in_Ukraine,5,4,"['Ukrainian', 'russian']",['Ukrainian'],3,1
+115,2023/02/01 9:59:44 дп GMT+1,Female,33,yes,Сentral-north,in_Ukraine,3,2,['russian'],['Ukrainian'],3,2
+116,2023/02/01 9:59:51 дп GMT+1,Female,30,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'russian']","['Ukrainian', 'russian']",3,2
+117,2023/02/01 10:00:11 дп GMT+1,Female,24,yes,Сentral-north,temp_abroad,5,2,['russian'],['Ukrainian'],3,2
+118,2023/02/01 10:00:50 дп GMT+1,Female,37,yes,Сentral-north,temp_abroad,5,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'other']",5,2
+119,2023/02/01 10:13:58 дп GMT+1,Male,29,yes,Сentral-north,in_Ukraine,3,3,['russian'],['Ukrainian'],4,3
+120,2023/02/01 10:17:36 дп GMT+1,Male,26,yes,Сentral-north,in_Ukraine,1,1,['Ukrainian'],['Ukrainian'],2,2
+121,2023/02/01 10:38:01 дп GMT+1,Female,38,yes,Сentral-north,in_Ukraine,3,1,['Ukrainian'],['Ukrainian'],3,1
+122,2023/02/01 10:39:30 дп GMT+1,Male,39,yes,Сentral-north,in_Ukraine,5,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",4,1
+123,2023/02/01 10:41:35 дп GMT+1,Female,32,yes,Сentral-north,in_Ukraine,2,1,['Ukrainian'],['Ukrainian'],2,1
+124,2023/02/01 10:46:09 дп GMT+1,Male,27,yes,Сentral-north,in_Ukraine,5,3,"['Ukrainian', 'russian']","['Ukrainian', 'russian']",5,2
+124,2023/02/01 10:46:09 дп GMT+1,Male,27,yes,South,in_Ukraine,5,3,"['Ukrainian', 'russian']","['Ukrainian', 'russian']",5,2
+125,2023/02/01 10:47:28 дп GMT+1,Male,30,yes,Сentral-north,in_Ukraine,5,3,['Ukrainian'],['Ukrainian'],3,2
+126,2023/02/01 10:50:31 дп GMT+1,Male,35,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+126,2023/02/01 10:50:31 дп GMT+1,Male,35,yes,West,in_Ukraine,3,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+127,2023/02/01 10:52:03 дп GMT+1,Female,42,yes,Сentral-north,in_Ukraine,5,2,['Ukrainian'],['Ukrainian'],3,1
+128,2023/02/01 10:54:36 дп GMT+1,Female,33,yes,Сentral-north,in_Ukraine,5,3,['russian'],['Ukrainian'],2,1
+129,2023/02/01 10:55:15 дп GMT+1,Male,24,yes,Сentral-north,in_Ukraine,5,2,['russian'],['Ukrainian'],4,1
+130,2023/02/01 12:45:04 пп GMT+1,Female,22,yes,Сentral-north,in_Ukraine,1,1,"['Ukrainian', 'russian']",['Ukrainian'],4,2
+131,2023/02/01 2:26:31 пп GMT+1,Female,23,yes,East,in_Ukraine,5,2,['russian'],['Ukrainian'],4,1
+132,2023/02/01 2:34:06 пп GMT+1,Male,28,yes,Сentral-north,in_Ukraine,4,2,"['Ukrainian', 'russian']","['Ukrainian', 'other']",3,2
+133,2023/02/01 4:43:38 пп GMT+1,Female,28,yes,Сentral-north,in_Ukraine,1,1,"['Ukrainian', 'russian']",['Ukrainian'],3,1
+134,2023/02/02 7:54:52 дп GMT+1,Female,23,yes,Сentral-north,in_Ukraine,2,2,"['Ukrainian', 'russian']",['Ukrainian'],4,2
+135,2023/02/02 11:00:39 дп GMT+1,Male,30,yes,East,in_Ukraine,4,1,['russian'],['Ukrainian'],3,2
+136,2023/02/03 11:32:14 дп GMT+1,Female,17,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+137,2023/02/03 4:24:57 пп GMT+1,Male,18,yes,West,in_Ukraine,3,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+138,2023/02/05 3:33:57 пп GMT+1,Female,21,yes,Сentral-north,temp_abroad,3,2,['Ukrainian'],['Ukrainian'],3,1
+139,2023/02/05 4:10:08 пп GMT+1,Female,19,yes,Сentral-north,temp_abroad,4,2,['English'],['English'],4,1
+140,2023/02/05 4:35:54 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,3,3,['russian'],"['Ukrainian', 'English']",2,1
+141,2023/02/05 4:44:29 пп GMT+1,Female,18,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+142,2023/02/05 4:45:30 пп GMT+1,Male,18,yes,West,temp_abroad,1,1,['English'],"['Ukrainian', 'English']",2,1
+143,2023/02/05 4:45:57 пп GMT+1,Female,20,yes,Сentral-north,temp_abroad,4,2,['English'],['English'],2,1
+144,2023/02/05 4:46:47 пп GMT+1,Male,20,yes,Сentral-north,temp_abroad,5,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,1
+145,2023/02/05 5:00:34 пп GMT+1,Female,20,yes,Сentral-north,temp_abroad,2,1,['English'],['English'],2,1
+146,2023/02/05 5:02:44 пп GMT+1,Female,19,yes,Сentral-north,temp_abroad,1,1,"['English', 'russian']","['Ukrainian', 'English']",4,2
+147,2023/02/05 5:05:57 пп GMT+1,Female,18,yes,West,temp_abroad,1,1,['English'],"['English', 'other']",3,1
+148,2023/02/05 5:17:47 пп GMT+1,Female,20,yes,Сentral-north,temp_abroad,1,1,['Ukrainian'],"['Ukrainian', 'English']",2,1
+149,2023/02/05 6:20:50 пп GMT+1,Female,16,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+150,2023/02/05 6:41:05 пп GMT+1,Male,18,yes,East,temp_abroad,4,3,"['English', 'russian']","['Ukrainian', 'English']",3,1
+151,2023/02/05 8:00:48 пп GMT+1,Female,18,yes,South,in_Ukraine,5,1,['russian'],"['Ukrainian', 'English']",5,2
+152,2023/02/05 9:57:56 пп GMT+1,Female,16,yes,Сentral-north,in_Ukraine,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian', 'other']",3,2
+153,2023/02/05 11:52:50 пп GMT+1,Female,14,yes,Сentral-north,temp_abroad,3,2,['Ukrainian'],['Ukrainian'],1,1
+154,2023/02/06 6:41:04 пп GMT+1,Male,49,yes,Сentral-north,in_Ukraine,4,2,['Ukrainian'],['Ukrainian'],2,1
+155,2023/02/07 10:52:43 пп GMT+1,Male,17,yes,Сentral-north,temp_abroad,1,1,['English'],['English'],2,1
+156,2023/02/07 10:57:35 пп GMT+1,Male,18,yes,Сentral-north,temp_abroad,4,4,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",3,3
+157,2023/02/07 11:02:27 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,4,2,['russian'],"['Ukrainian', 'English']",4,1
+158,2023/02/07 11:03:22 пп GMT+1,Female,18,yes,Сentral-north,temp_abroad,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+159,2023/02/07 11:07:04 пп GMT+1,Male,19,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,2
+160,2023/02/07 11:12:23 пп GMT+1,Male,19,yes,South,temp_abroad,4,4,['English'],"['Ukrainian', 'English', 'russian']",2,2
+161,2023/02/07 11:12:33 пп GMT+1,Female,18,yes,West,in_Ukraine,3,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+162,2023/02/07 11:28:00 пп GMT+1,NB,18,yes,Сentral-north,in_Ukraine,4,1,['other'],['other'],3,1
+163,2023/02/07 11:33:49 пп GMT+1,Male,19,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+164,2023/02/07 11:35:37 пп GMT+1,Female,19,yes,West,in_Ukraine,2,2,"['English', 'russian']","['Ukrainian', 'English']",3,2
+165,2023/02/07 11:51:00 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,5,4,['russian'],['russian'],4,1
+166,2023/02/08 12:08:29 дп GMT+1,Female,18,yes,South,in_Ukraine,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+167,2023/02/08 12:12:10 дп GMT+1,Female,20,yes,Сentral-north,in_Ukraine,1,1,"['English', 'russian']","['Ukrainian', 'English']",2,1
+167,2023/02/08 12:12:10 дп GMT+1,Female,20,yes,West,in_Ukraine,1,1,"['English', 'russian']","['Ukrainian', 'English']",2,1
+168,2023/02/08 12:33:08 дп GMT+1,Female,18,yes,Сentral-north,temp_abroad,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+168,2023/02/08 12:33:08 дп GMT+1,Female,18,yes,East,temp_abroad,4,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+169,2023/02/08 1:00:00 дп GMT+1,Male,20,yes,Сentral-north,perm_abroad,3,1,['English'],"['Ukrainian', 'English']",2,1
+170,2023/02/08 3:14:32 дп GMT+1,Female,22,yes,Сentral-north,temp_abroad,5,3,['Ukrainian'],['Ukrainian'],3,2
+171,2023/02/08 6:57:05 дп GMT+1,Female,19,yes,West,in_Ukraine,1,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,1
+172,2023/02/08 7:01:26 дп GMT+1,Male,19,yes,Сentral-north,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,3
+173,2023/02/08 8:08:48 дп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,4,2,"['Ukrainian', 'russian']",['Ukrainian'],3,2
+174,2023/02/08 8:32:17 дп GMT+1,Female,20,yes,West,in_Ukraine,3,1,['russian'],"['Ukrainian', 'English']",4,1
+175,2023/02/08 8:48:15 дп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,4,3,"['russian', 'other']",['Ukrainian'],3,2
+176,2023/02/08 8:51:17 дп GMT+1,Female,16,yes,East,in_Ukraine,4,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+177,2023/02/08 9:01:30 дп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'other']","['Ukrainian', 'English']",2,1
+178,2023/02/08 9:02:46 дп GMT+1,Female,18,yes,East,temp_abroad,5,3,"['English', 'russian']","['Ukrainian', 'English']",4,2
+179,2023/02/08 9:05:19 дп GMT+1,Female,19,yes,South,in_Ukraine,5,2,['russian'],['Ukrainian'],4,1
+180,2023/02/08 9:07:08 дп GMT+1,Female,18,yes,South,in_Ukraine,4,2,['russian'],"['Ukrainian', 'English']",4,1
+181,2023/02/08 9:10:11 дп GMT+1,Male,20,yes,East,in_Ukraine,5,3,['russian'],['Ukrainian'],5,1
+182,2023/02/08 9:30:18 дп GMT+1,Female,19,yes,East,in_Ukraine,3,3,['Ukrainian'],['Ukrainian'],3,2
+183,2023/02/08 9:31:32 дп GMT+1,Female,15,yes,Сentral-north,in_Ukraine,5,1,['russian'],"['Ukrainian', 'English']",4,2
+184,2023/02/08 10:50:48 дп GMT+1,Female,18,yes,West,in_Ukraine,2,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+185,2023/02/08 10:51:32 дп GMT+1,Male,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+186,2023/02/08 10:53:37 дп GMT+1,Male,18,yes,West,in_Ukraine,1,1,['English'],['English'],3,2
+187,2023/02/08 10:53:41 дп GMT+1,Female,17,yes,East,in_Ukraine,5,2,"['English', 'russian']",['English'],3,1
+188,2023/02/08 10:54:19 дп GMT+1,Male,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+189,2023/02/08 10:55:48 дп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+190,2023/02/08 11:10:39 дп GMT+1,Female,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,2
+191,2023/02/08 11:46:12 дп GMT+1,Male,20,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+192,2023/02/08 11:51:54 дп GMT+1,Female,17,yes,West,in_Ukraine,3,3,"['English', 'russian']","['Ukrainian', 'English']",4,2
+193,2023/02/08 12:08:11 пп GMT+1,Male,14,yes,East,in_Ukraine,4,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+194,2023/02/08 12:10:21 пп GMT+1,Female,14,yes,South,in_Ukraine,5,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,2
+194,2023/02/08 12:10:21 пп GMT+1,Female,14,yes,East,in_Ukraine,5,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,2
+195,2023/02/08 12:41:49 пп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+196,2023/02/08 12:44:12 пп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'russian']",['Ukrainian'],3,1
+197,2023/02/08 1:17:24 пп GMT+1,Male,17,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",4,1
+198,2023/02/08 1:19:53 пп GMT+1,Male,18,yes,West,in_Ukraine,1,1,['English'],['English'],2,1
+199,2023/02/08 1:23:15 пп GMT+1,Male,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",4,2
+200,2023/02/08 1:25:25 пп GMT+1,Female,20,yes,Сentral-north,in_Ukraine,5,1,['russian'],['English'],5,1
+201,2023/02/08 2:24:21 пп GMT+1,Female,18,yes,West,in_Ukraine,3,3,"['English', 'russian']","['Ukrainian', 'English', 'russian']",2,2
+202,2023/02/08 2:25:27 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,3,1,['russian'],"['Ukrainian', 'English']",2,1
+202,2023/02/08 2:25:27 пп GMT+1,Female,18,yes,West,in_Ukraine,3,1,['russian'],"['Ukrainian', 'English']",2,1
+203,2023/02/08 2:25:46 пп GMT+1,Female,19,yes,Сentral-north,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+203,2023/02/08 2:25:46 пп GMT+1,Female,19,yes,West,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+204,2023/02/08 2:26:32 пп GMT+1,Female,18,yes,West,temp_abroad,3,3,['English'],"['Ukrainian', 'English', 'other']",2,1
+205,2023/02/08 2:28:08 пп GMT+1,Female,31,yes,West,temp_abroad,3,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,2
+206,2023/02/08 2:28:15 пп GMT+1,Female,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",4,2
+207,2023/02/08 2:29:38 пп GMT+1,Female,18,yes,East,temp_abroad,5,2,"['Ukrainian', 'russian']","['Ukrainian', 'English']",4,1
+208,2023/02/08 2:34:23 пп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+209,2023/02/08 2:34:26 пп GMT+1,Female,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,1
+210,2023/02/08 2:37:25 пп GMT+1,Male,32,yes,Сentral-north,in_Ukraine,3,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+211,2023/02/08 2:49:55 пп GMT+1,Female,18,yes,East,in_Ukraine,3,2,['russian'],['Ukrainian'],2,1
+212,2023/02/08 2:51:24 пп GMT+1,Male,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",2,1
+213,2023/02/08 2:59:20 пп GMT+1,Male,21,yes,West,in_Ukraine,1,1,['English'],['English'],2,1
+214,2023/02/08 3:03:15 пп GMT+1,Male,39,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English']",['Ukrainian'],3,2
+215,2023/02/08 3:03:28 пп GMT+1,Male,38,yes,Сentral-north,in_Ukraine,5,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'other']",2,2
+215,2023/02/08 3:03:28 пп GMT+1,Male,38,yes,East,in_Ukraine,5,3,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'other']",2,2
+216,2023/02/08 3:11:37 пп GMT+1,Female,18,yes,West,in_Ukraine,1,1,['English'],['English'],3,1
+217,2023/02/08 3:19:04 пп GMT+1,Male,43,yes,Сentral-north,in_Ukraine,4,3,"['Ukrainian', 'russian']",['Ukrainian'],2,1
+217,2023/02/08 3:19:04 пп GMT+1,Male,43,yes,East,in_Ukraine,4,3,"['Ukrainian', 'russian']",['Ukrainian'],2,1
+218,2023/02/08 3:35:14 пп GMT+1,Male,39,yes,West,in_Ukraine,2,2,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+219,2023/02/08 3:42:47 пп GMT+1,Female,35,yes,East,in_Ukraine,4,3,['English'],['English'],2,1
+220,2023/02/08 3:58:59 пп GMT+1,Female,27,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'other']","['Ukrainian', 'English', 'other']",3,1
+221,2023/02/08 3:59:19 пп GMT+1,Female,19,yes,West,in_Ukraine,2,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+222,2023/02/08 4:08:53 пп GMT+1,Female,38,yes,South,in_Ukraine,5,4,['Ukrainian'],['Ukrainian'],3,2
+223,2023/02/08 4:13:10 пп GMT+1,Female,19,yes,West,in_Ukraine,2,1,"['Ukrainian', 'russian']",['Ukrainian'],2,1
+224,2023/02/08 4:38:43 пп GMT+1,Female,17,yes,South,in_Ukraine,4,2,"['English', 'russian']","['Ukrainian', 'English']",2,1
+224,2023/02/08 4:38:43 пп GMT+1,Female,17,yes,East,in_Ukraine,4,2,"['English', 'russian']","['Ukrainian', 'English']",2,1
+225,2023/02/08 4:45:52 пп GMT+1,Female,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,2
+226,2023/02/08 6:04:38 пп GMT+1,Male,27,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",2,1
+227,2023/02/08 6:33:08 пп GMT+1,Male,16,yes,East,in_Ukraine,4,3,"['Ukrainian', 'russian']","['Ukrainian', 'English']",2,2
+228,2023/02/08 6:37:47 пп GMT+1,Male,33,yes,Сentral-north,in_Ukraine,4,3,['russian'],['Ukrainian'],3,1
+229,2023/02/08 7:12:14 пп GMT+1,Male,44,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English', 'russian']",2,2
+230,2023/02/08 7:22:52 пп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",1,1
+231,2023/02/08 8:02:19 пп GMT+1,Male,32,yes,West,in_Ukraine,1,1,['Ukrainian'],['Ukrainian'],3,1
+232,2023/02/08 8:03:33 пп GMT+1,Female,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']",['English'],3,1
+233,2023/02/08 8:04:40 пп GMT+1,Female,26,yes,West,in_Ukraine,2,1,"['Ukrainian', 'russian']",['Ukrainian'],5,1
+234,2023/02/08 8:35:48 пп GMT+1,Female,18,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,2
+235,2023/02/08 8:47:36 пп GMT+1,Female,19,yes,West,in_Ukraine,3,3,['Ukrainian'],['Ukrainian'],2,1
+236,2023/02/08 8:57:08 пп GMT+1,Male,35,yes,Сentral-north,in_Ukraine,4,2,['English'],['English'],3,2
+237,2023/02/08 10:18:31 пп GMT+1,Female,20,yes,West,in_Ukraine,2,1,"['Ukrainian', 'russian']","['Ukrainian', 'English', 'russian']",4,2
+238,2023/02/08 10:38:43 пп GMT+1,Male,18,yes,Сentral-north,in_Ukraine,3,1,['russian'],"['Ukrainian', 'English']",3,1
+238,2023/02/08 10:38:43 пп GMT+1,Male,18,yes,West,in_Ukraine,3,1,['russian'],"['Ukrainian', 'English']",3,1
+239,2023/02/08 10:39:07 пп GMT+1,Female,17,yes,West,in_Ukraine,2,1,['Ukrainian'],"['Ukrainian', 'English']",3,1
+240,2023/02/08 10:39:14 пп GMT+1,Female,18,yes,Сentral-north,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+240,2023/02/08 10:39:14 пп GMT+1,Female,18,yes,West,in_Ukraine,2,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,1
+241,2023/02/08 10:39:47 пп GMT+1,Female,22,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",1,1
+242,2023/02/08 10:48:35 пп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+243,2023/02/08 11:06:41 пп GMT+1,Female,20,yes,West,in_Ukraine,1,1,"['Ukrainian', 'russian']","['Ukrainian', 'English']",3,2
+244,2023/02/09 6:23:47 дп GMT+1,Male,39,yes,East,temp_abroad,4,3,['russian'],['russian'],3,3
+245,2023/02/09 7:01:50 дп GMT+1,Female,17,yes,West,in_Ukraine,1,1,"['Ukrainian', 'English', 'russian']","['Ukrainian', 'English']",3,2
+246,2023/02/09 9:37:25 дп GMT+1,Female,32,yes,Сentral-north,in_Ukraine,5,2,['russian'],"['Ukrainian', 'English']",2,1
+246,2023/02/09 9:37:25 дп GMT+1,Female,32,yes,South,in_Ukraine,5,2,['russian'],"['Ukrainian', 'English']",2,1
+247,2023/02/09 11:30:52 дп GMT+1,Female,20,yes,West,in_Ukraine,2,1,"['English', 'russian']",['English'],3,2
+248,2023/02/10 8:21:10 пп GMT+1,Female,20,yes,South,in_Ukraine,3,1,"['Ukrainian', 'English']","['Ukrainian', 'English']",3,1
+249,2023/02/12 2:37:46 дп GMT+1,Female,19,yes,Сentral-north,temp_abroad,3,2,['russian'],['Ukrainian'],3,1
+250,2023/02/19 2:46:39 пп GMT+1,Male,21,yes,Сentral-north,in_Ukraine,3,2,"['Ukrainian', 'russian']",['Ukrainian'],3,1

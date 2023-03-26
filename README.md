@@ -14,13 +14,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This research aims to study the impact of the russian full-scale invasion on the use of the russian language by citizens of Ukraine
+The question of the Ukrainian language is extremely important for each Ukrainian. Our language was repressed many times, primarily by russian empire / ussr / other forms of russia. Despite all russian imposes, the Ukrainian language and independence managed to survive, first of all, because of the huge sacrifices of Ukrainian heroes.
+
+Since the full-scale invasion started, the question of the language became even more relevant. A lot of people in the temporarily occupied Ukrainian territories were criminally killed by russian terrorists just because they spoke their own language. 
+
+As the president of russia declared, one of the goals of this criminal war is to “protect the russian language in Ukraine.” In this study, we’re going to check how things are going with this goal.
 
 
 <!-- PREREQUISITES -->
 
 ## Prerequirements
 Packages from requirementns.txt should be installed.
+
+Also, the variable "abs_path", that includes the absolute path to the project folder should be defined in the vars.py file
 
 <!-- Built with -->
 ## Built with
