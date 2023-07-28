@@ -18,7 +18,7 @@ The question of the Ukrainian language is extremely important for each Ukrainian
 
 Since the full-scale invasion started, the question of the language became even more relevant. A lot of people in the temporarily occupied Ukrainian territories were criminally killed by russian terrorists just because they spoke their own language. 
 
-As the president of russia declared, one of the goals of this criminal war is to “protect the russian language in Ukraine.” In this study, we’re going to check how things are going with this goal.
+As the president of russia declared, one of the goals of this criminal war is to “protect the russian language in Ukraine.” In this study, we’re going to check how things are going with this fictitious goal :)
 
 
 <!-- PREREQUISITES -->
